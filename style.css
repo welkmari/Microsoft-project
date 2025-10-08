@@ -17,4 +17,17 @@ header{
       margin: 16px 10px;  
     }
 
+    ul{
+        display: flex;
+        align-items:center ;
+        gap: 20px;
+        margin: 0%;
+    }
+
+    li{
+        cursor: pointer;
+        color: #262626;
+        font-size: 13px;
+    }
+
 }
